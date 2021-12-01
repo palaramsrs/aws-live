@@ -1,0 +1,6 @@
+customhost = "employee.chrrv7ge3nln.us-east-1.rds.amazonaws.com"
+customuser = "aws_user"
+custompass = "Bait3273"
+customdb = "employee"
+custombucket = "ramanathan-employee"
+customregion = "us-east-2"
